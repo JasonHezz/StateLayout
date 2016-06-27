@@ -1,7 +1,6 @@
 # StateLayout
 
-This library was inspired by [EmptyLayout] (https://github.com/alamkanak/android-empty-layout). It's easy to show the state of loading ,
-error and empty state.
+This library was inspired by [EmptyLayout] (https://github.com/alamkanak/android-empty-layout). It's easy to show the loading , error and empty state.
 
 
 ##Usage
