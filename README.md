@@ -33,7 +33,7 @@ java code
 StateLayout.setState(StateLayout.TYPE_ERROR);
 ```
 
-##Customer error/loading/emty view?
+##Custom error/loading/emty view?
 ```
   app:errorView:"@layout/your layout"
   app:emtyView:"@layout/your layout"
